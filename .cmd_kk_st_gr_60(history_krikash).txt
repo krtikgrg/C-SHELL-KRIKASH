@@ -1,0 +1,18 @@
+vi &
+ps
+jobs
+kjob 1 2
+jobs
+ps
+../a.out &
+ps
+jobs
+kjob 2 2
+jobs
+ps
+../a.out &
+jobs
+kjob 3 19
+jobs
+kjob 3 2
+jobs
